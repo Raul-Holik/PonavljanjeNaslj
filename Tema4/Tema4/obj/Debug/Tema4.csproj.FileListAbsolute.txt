@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\Raul Dominik Holik\Tema4\Tema4\bin\Debug\Tema4.exe.config
+C:\Users\ucenik\Documents\Raul Dominik Holik\Tema4\Tema4\bin\Debug\Tema4.exe
+C:\Users\ucenik\Documents\Raul Dominik Holik\Tema4\Tema4\bin\Debug\Tema4.pdb
+C:\Users\ucenik\Documents\Raul Dominik Holik\Tema4\Tema4\obj\Debug\Tema4.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\Tema4\Tema4\obj\Debug\Tema4.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\Tema4\Tema4\obj\Debug\Tema4.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\Tema4\Tema4\obj\Debug\Tema4.exe
+C:\Users\ucenik\Documents\Raul Dominik Holik\Tema4\Tema4\obj\Debug\Tema4.pdb
